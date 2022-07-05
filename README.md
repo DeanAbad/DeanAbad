@@ -27,11 +27,11 @@ Therefore, I put them here in this hellpit.</p>
 <h3>Activities</h3>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c1151233-3650-45b0-aca8-bbbd0a59253e/da3t1zv-afad1d43-8972-4b43-b260-5eb4668a2740.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MxMTUxMjMzLTM2NTAtNDViMC1hY2E4LWJiYmQwYTU5MjUzZVwvZGEzdDF6di1hZmFkMWQ0My04OTcyLTRiNDMtYjI2MC01ZWI0NjY4YTI3NDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nJjF_Rq8GBLXVaGcec2kk9_P9U_nZ8ofsRzjGpLJyx0" align="right" height="210px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/overview.svg"></a><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/languages.svg"></a><img src="https://thumbs.gfycat.com/PettyInexperiencedGermanshepherd-max-1mb.gif" align="right" height="260px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&no-frame=true&row=2&column=4"></a>
 
-<br><br>
+<br>
 
 <!--<img src="https://64.media.tumblr.com/77694e5320885f7b809ec8b1c0599c73/tumblr_nqth2roY9l1qd4q8ao1_500.gifv" align="right" height="190px"><img src="https://64.media.tumblr.com/aa78f5ba6377c4c7bcaf967ed400c322/tumblr_o8iglkF2f21qd4q8ao1_500.gifv" align="right" height="190px">-->
 
-<img src="https://c.tenor.com/mrkI37QW9swAAAAd/terraria-music.gif" height="200px"><a href="https://open.spotify.com/user/31okxaqyjgfwqsgnlggepdkaanju" target="_blank"><img src="https://github-readme-spotify-ebon.vercel.app/api/spotify" height="200px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.gifer.com/origin/b1/b18107f7e40e16f23be5f36416c569fa_w200.gif" height="200px">
+<img src="https://c.tenor.com/mrkI37QW9swAAAAd/terraria-music.gif" align="left" height="160px">&nbsp;&nbsp;<a href="https://open.spotify.com/user/31okxaqyjgfwqsgnlggepdkaanju" target="_blank"><img src="https://github-readme-spotify-ebon.vercel.app/api/spotify" height="160px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.gifer.com/origin/b1/b18107f7e40e16f23be5f36416c569fa_w200.gif" height="160px">
 
 <br><br>
 
