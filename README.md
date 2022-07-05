@@ -30,7 +30,7 @@ Therefore, I put them here in this hellpit.</p>
 
 
 <br>
-<img src="https://giffiles.alphacoders.com/157/15765.gif" align="right" height="100px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/languages.svg"></a><img src="https://thumbs.gfycat.com/PettyInexperiencedGermanshepherd-max-1mb.gif" align="right" height="260px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&no-frame=true&row=2&column=4"></a>
+<a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/languages.svg"></a><img src="https://giffiles.alphacoders.com/157/15765.gif" align="right" height="100px"><img src="https://thumbs.gfycat.com/PettyInexperiencedGermanshepherd-max-1mb.gif" align="right" height="260px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&no-frame=true&row=2&column=4"></a>
 
 <br>
 
