@@ -26,7 +26,8 @@ Therefore, I put them here in this hellpit.</p>
 <br>
 <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32334585/138f180ac0596e76758187fb75bb938da67a4978.png">
 </br>
-<h3>Stressor: keeping myself occupied & trying to be productive as much as possible</h3>
+<h3>Few occupational stressors</h3>
+<p>These are some activities pushed by my stressors.</p>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c1151233-3650-45b0-aca8-bbbd0a59253e/da3t1zv-afad1d43-8972-4b43-b260-5eb4668a2740.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MxMTUxMjMzLTM2NTAtNDViMC1hY2E4LWJiYmQwYTU5MjUzZVwvZGEzdDF6di1hZmFkMWQ0My04OTcyLTRiNDMtYjI2MC01ZWI0NjY4YTI3NDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nJjF_Rq8GBLXVaGcec2kk9_P9U_nZ8ofsRzjGpLJyx0" align="right" height="210px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/overview.svg"></a><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/languages.svg"></a><br>
 <img src="https://thumbs.gfycat.com/PettyInexperiencedGermanshepherd-max-1mb.gif" align="right" height="240px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&no-frame=true&row=2&column=4"></a>
 <br>
