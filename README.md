@@ -52,9 +52,14 @@ Also, feel free to check and listen to my poorly made playlists in Spotify and Y
         </td>
     </tr>
 </table>
+<!--
 <br>
 <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32334585/138f180ac0596e76758187fb75bb938da67a4978.png">
 </br>
-<img src="https://64.media.tumblr.com/aa78f5ba6377c4c7bcaf967ed400c322/tumblr_o8iglkF2f21qd4q8ao1_500.gifv" height="190px">
+<h3>Other tools I use</h3>
+<p>These are the ones I seldom use and still have more to study with.</p>
+<a href="https://www.blender.org/" target="_blank"><img alt="picoCAD" title="picoCAD" src="https://img.itch.zone/aW1nLzUyNjcwMzkucG5n/original/5DB6mf.png" height="100px"></a>
 
-<a href="https://github.com" target="_blank"><img alt="Github" title="Github | VSC Source Control" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a> <a href="https://github.com/microsoft/terminal" target="_blank"><img alt="Terminal" title="Terminal | Windows Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="Bash" title="Bash | MSYS2" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></a> <a href="sfml-dev.org/index.php" target="_blank"><img alt="SFML" title="SFML" width="30px" src="https://raw.githubusercontent.com/SFML/SFML/master/examples/assets/logo.png" /></a> <a href="https://www.javascript.com" target="_blank"> <a href="https://sass-lang.com" target="_blank"><img alt="Sass" title="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a> <a href="https://materializecss.com" target="_blank"><img alt="Materialize" title="Materialize" width="30px" src="https://raw.githubusercontent.com/Dogfalo/materialize/v1-dev/images/m-logo-salmon.png" /></a>
+<a href="sfml-dev.org/index.php" target="_blank"><img alt="SFML" title="SFML" width="30px" src="https://raw.githubusercontent.com/SFML/SFML/master/examples/assets/logo.png" /></a> <a href="https://www.javascript.com" target="_blank"> <a href="https://sass-lang.com" target="_blank"><img alt="Sass" title="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a> <a href="https://materializecss.com" target="_blank"><img alt="Materialize" title="Materialize" width="30px" src="https://raw.githubusercontent.com/Dogfalo/materialize/v1-dev/images/m-logo-salmon.png"></a> <a href="https://www.blender.org/" target="_blank"><img alt="Blender" title="Blender" width="30px" src="https://raw.githubusercontent.com/blender/blender/master/release/windows/icons/winblender.ico"></a>
+
+<img src="https://64.media.tumblr.com/aa78f5ba6377c4c7bcaf967ed400c322/tumblr_o8iglkF2f21qd4q8ao1_500.gifv" height="190px"> -->
