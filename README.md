@@ -41,7 +41,7 @@ Also, feel free to check and listen to my poorly made playlists in Spotify and Y
 <br>
 <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32334585/138f180ac0596e76758187fb75bb938da67a4978.png">
 </br>
-<img src="https://c.tenor.com/mrkI37QW9swAAAAd/terraria-music.gif" align="left" height="160px">&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/user/31okxaqyjgfwqsgnlggepdkaanju" target="_blank"><img src="https://github-readme-spotify-ebon.vercel.app/api/spotify" height="160px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.gifer.com/origin/b1/b18107f7e40e16f23be5f36416c569fa_w200.gif" height="160px">
+<img src="https://c.tenor.com/mrkI37QW9swAAAAd/terraria-music.gif" align="left" height="156px">&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/user/31okxaqyjgfwqsgnlggepdkaanju" target="_blank"><img src="https://github-readme-spotify-ebon.vercel.app/api/spotify" height="160px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.gifer.com/origin/b1/b18107f7e40e16f23be5f36416c569fa_w200.gif" height="160px">
 
 <br><br>
 
