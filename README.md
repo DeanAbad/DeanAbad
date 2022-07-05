@@ -1,8 +1,6 @@
 <h1>Hi! Welcome to my Github. 👋</h1>
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=20&duration=2000&multiline=true&width=490&height=80&lines=var+name+%3A%3D+%22DeanAbad%22;var+langs+%3A%3D+%5B+%22C%2B%2B%22+%2C+%22Python%22%5D;var+scripts+%3A%3D+%5B%22GDScript%22%2C+%22JavaScript%22%5D;%C2%A0"><img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" align="right" height="260px">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=20&duration=2000&multiline=true&width=490&height=80&lines=var+name+%3A%3D+%22DeanAbad%22;var+langs+%3A%3D+%5B+%22C%2B%2B%22+%2C+%22Python%22%5D;var+scripts+%3A%3D+%5B%22GDScript%22%2C+%22JavaScript%22%5D;%C2%A0"><img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" align="right" height="258px">
 
 <h3>Tools I usually use</h3>
 <table>
@@ -17,7 +15,7 @@
             <a href="https://isocpp.org" target="_blank"><img alt="C++" title="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img alt="Python" title="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>&nbsp;&nbsp;<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img alt="HTML5" title="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>&nbsp;&nbsp;<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img alt="CSS3" title="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>&nbsp;&nbsp;<a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" title="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>
         </td>
     </tr>
-</table><img src="https://forums.terraria.org/index.php?attachments/slime-town-3-gif.369446/" align="right" height="204px">
+</table><img src="https://forums.terraria.org/index.php?attachments/slime-town-3-gif.369446/" align="right" height="200px">
 
 
 <h3>Some works (done & WIPs)</h3>
