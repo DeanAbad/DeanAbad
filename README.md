@@ -26,11 +26,8 @@ Therefore, I put them here in this hellpit.</p>
 
 <h3>Activities</h3><img src="https://64.media.tumblr.com/77694e5320885f7b809ec8b1c0599c73/tumblr_nqth2roY9l1qd4q8ao1_500.gifv" align="right" height="350px">
 <a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/overview.svg"></a>
-
-
-
 <br>
-<a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/languages.svg"></a><img src="https://giffiles.alphacoders.com/157/15765.gif" align="right" height="100px"><img src="https://thumbs.gfycat.com/PettyInexperiencedGermanshepherd-max-1mb.gif" align="right" height="260px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&no-frame=true&row=2&column=4"></a>
+<a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/languages.svg"></a><img src="https://thumbs.gfycat.com/PettyInexperiencedGermanshepherd-max-1mb.gif" align="right" height="260px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&no-frame=true&row=2&column=4"></a>
 
 <br>
 
