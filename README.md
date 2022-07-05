@@ -13,33 +13,4 @@
             <a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&theme=darkhub&no-frame=true&row=1&column=6" height="104px" /></a>
         </th>
     </tr>
-    <tr>
-        <th>
-            <details><summary>Graphics</summary>
-                <table>
-                    <tr>
-                        <th style="text-align: center;">Art, Animation, and Rendering Tools and Works</th>
-                    </tr>
-                    <tr>
-                        <th style="text-align: center;">
-                            <a href="https://www.aseprite.org" target="_blank"><img alt="Aseprite" title="Aseprite" width="30px" src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase64.png" /></a><a href="https://krita.org/en/" target="_blank"><img alt="Krita" title="Krita" width="30px" src="https://raw.githubusercontent.com/KDE/krita/master/packaging/windows/msix/pkg/Assets/StoreLogo.scale-400.png" /></a><a href="https://www.blender.org" target="_blank"><img alt="Blender" title="Blender" width="30px" src="https://raw.githubusercontent.com/blender/blender/master/release/windows/msix/Assets/StoreLogo.scale-400.png" /></a><a href="https://godotengine.org" target="_blank"><img alt="Godot & GDScript" title="Godot & GDScript" width="30px" src="https://raw.githubusercontent.com/godotengine/godot/master/main/app_icon.png" /></a>
-                            <table>
-                                <tr>
-                                    <td>
-                                        <img width="212px" src="https://raw.githubusercontent.com/DeanAbad/MumuNiMochii/master/img/old_pixel_art_submission.png" /><br /><img width="212px" src="https://raw.githubusercontent.com/DeanAbad/MumuNiMochii/master/img/old_itadori_yuji_fanart_with_krita.png" \><br /><img width="212px" src="https://raw.githubusercontent.com/DeanAbad/MumuNiMochii/master/img/old_goku_mui_with_aseprite.png" /><br /><img width="212px" src="https://raw.githubusercontent.com/DeanAbad/MumuNiMochii/master/img/05_donut_final_rendered.png" /><br /><img width="212px" src="https://raw.githubusercontent.com/DeanAbad/MumuNiMochii/master/img/06_donut_final_rendered.png" />
-                                    </td>
-                                    <td>
-                                        <img width="212px" src="https://raw.githubusercontent.com/DeanAbad/MumuNiMochii/master/img/old_krita_oc_lineart.png" />
-                                    </td>
-                                    <td>
-                                        <img width="212px" src="https://raw.githubusercontent.com/DeanAbad/MumuNiMochii/master/img/old_portfolio_card_animation.gif" /><br /><img width="212px" src="https://raw.githubusercontent.com/DeanAbad/MumuNiMochii/master/img/old_portfolio_animation.gif" /><br /><img width="212px" src="https://raw.githubusercontent.com/DeanAbad/MumuNiMochii/master/img/old_yufo_model_with_godot.png" />
-                                    </td>
-                                </tr>
-                            </table>
-                        </th>
-                    </tr>
-                </table>
-            </details>
-        </th>
-    </tr>
 </table>
