@@ -29,7 +29,8 @@ Therefore, I put them here in this hellpit.</p>
 
 <img src="https://64.media.tumblr.com/77694e5320885f7b809ec8b1c0599c73/tumblr_nqth2roY9l1qd4q8ao1_500.gifv" align="right" height="300px"><h3>Socials</h3>
 <p>For commissions or jam with gamejams, games, etc.
-Currently I'm limited only to retro titles and works i.e. GBA, PSP, etc. graphics.</p>
+Currently I'm limited only to retro titles and works i.e. GBA, PSP, etc. graphics.
+Also music stuff e.g. game BGMs, SFXs, and especially OSTs, and ones that not from games.</p>
 
 <a href="https://www.facebook.com/deanharoldpabad" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" height="50px"></a>&nbsp;&nbsp;<a href="https://open.spotify.com/user/31okxaqyjgfwqsgnlggepdkaanju" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/54e45fb3fb5605cdf683fbe5433d51ee4d05ccc0/topics/spotify/spotify.png" height="50px"></a>&nbsp;&nbsp;<a href="https://twitter.com/deanharoldpabad" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" height="50px"></a>
 
