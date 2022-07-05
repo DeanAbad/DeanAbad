@@ -15,7 +15,7 @@
             <a href="https://isocpp.org" target="_blank"><img alt="C++" title="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img alt="Python" title="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>&nbsp;&nbsp;<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img alt="HTML5" title="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>&nbsp;&nbsp;<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img alt="CSS3" title="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>&nbsp;&nbsp;<a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" title="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>
         </td>
     </tr>
-</table><img src="https://forums.terraria.org/index.php?attachments/slime-town-3-gif.369446/" align="right" height="154px">
+</table><img src="https://forums.terraria.org/index.php?attachments/slime-town-3-gif.369446/" align="right" height="200px">
 
 
 <h3>Some works (done & WIPs)</h3>
