@@ -27,8 +27,8 @@ Therefore, I put them here in this hellpit.</p>
 <h3>Activities</h3>
 <a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api?username=DeanAbad&show_icons=true&include_all_commits=true&custom_title=Github%20Stats&hide_border=true&hide_rank=true" alt="Github Stats"></a><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanAbad&hide=c,scss,makefile,shell,java,batchfile&exclude_repo=30-Days-Of-JavaScript,Turtle_and_Freegames_Snake,CPP-SFML_Menu-Login_System_Mockup_Source,full-blockchain-solidity-course-py,Web-Dev-For-Beginners,awesome-github-profile-readme,anuraghazra,creative-profile-readme&layout=compact&langs_count=6&hide_border=true">
-</a><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&no-frame=true&row=2&column=1"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanAbad&hide=c,scss,makefile,shell,java,batchfile&exclude_repo=30-Days-Of-JavaScript,Turtle_and_Freegames_Snake,CPP-SFML_Menu-Login_System_Mockup_Source,full-blockchain-solidity-course-py,Web-Dev-For-Beginners,awesome-github-profile-readme,anuraghazra,creative-profile-readme&layout=compact&langs_count=6&hide_border=true&card_width=240px">
+</a><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&no-frame=true&row=2&column=2"></a>
 
 <br>
 
