@@ -31,7 +31,7 @@ Therefore, I put them here in this hellpit.</p>
 
 <!--<img src="https://64.media.tumblr.com/77694e5320885f7b809ec8b1c0599c73/tumblr_nqth2roY9l1qd4q8ao1_500.gifv" align="right" height="190px"><img src="https://64.media.tumblr.com/aa78f5ba6377c4c7bcaf967ed400c322/tumblr_o8iglkF2f21qd4q8ao1_500.gifv" align="right" height="190px">-->
 
-<img src="https://c.tenor.com/mrkI37QW9swAAAAd/terraria-music.gif" align="left" height="160px">&nbsp;&nbsp;<a href="https://open.spotify.com/user/31okxaqyjgfwqsgnlggepdkaanju" target="_blank"><img src="https://github-readme-spotify-ebon.vercel.app/api/spotify" height="160px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.gifer.com/origin/b1/b18107f7e40e16f23be5f36416c569fa_w200.gif" height="160px">
+<img src="https://c.tenor.com/mrkI37QW9swAAAAd/terraria-music.gif" align="left" height="180px">&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/user/31okxaqyjgfwqsgnlggepdkaanju" target="_blank"><img src="https://github-readme-spotify-ebon.vercel.app/api/spotify" height="160px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.gifer.com/origin/b1/b18107f7e40e16f23be5f36416c569fa_w200.gif" height="160px">
 
 <br><br>
 
