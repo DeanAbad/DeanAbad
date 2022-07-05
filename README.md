@@ -1,6 +1,8 @@
 <h1>Hi! Welcome to my Github. 👋</h1>
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=20&duration=2000&multiline=true&width=490&height=80&lines=var+name+%3A%3D+%22DeanAbad%22;var+langs+%3A%3D+%5B+%22C%2B%2B%22+%2C+%22Python%22%5D;var+scripts+%3A%3D+%5B%22GDScript%22%2C+%22JavaScript%22%5D;%C2%A0"><img src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif" align="right" height="260px">
+
 
 <h3>Tools I usually use</h3>
 <table>
@@ -21,7 +23,7 @@
 <h3>Some works (done & WIPs)</h3>
 <p>Consists of my atrocities with GDScript, C++, Python, and JavaScript.
 'Atrocities' as they do not do anything much, but I still love them.
-Therefore I put them here in this hellpit with me.</p>
+Therefore, I put them here in this hellpit.</p>
 
 <a href="https://deanabad.github.io/Personal_Portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-100000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal portolio" title="Personal portolio"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCIbFglT-SmEPmeGTXxUipZA" target="_blank"><img src="https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel" title="YouTube channel"></a>&nbsp;&nbsp;<a href="https://deanabad.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-100000?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io profile" title="itch.io profile"></a>&nbsp;&nbsp;<a href="https://github.com/DeanAbad" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github profile" title="Github profile"></a>&nbsp;&nbsp;<a href="https://codepen.io/DeanAbad" target="_blank"><img src="https://img.shields.io/badge/Codepen-100000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen profile" title="CodePen profile"></a>&nbsp;&nbsp;<a href="https://www.freecodecamp.org/deanabad" target="_blank"><img src="https://img.shields.io/badge/Freecodecamp-100000.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp profile" title="freeCodeCamp profile"></a>
 
