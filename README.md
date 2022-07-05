@@ -29,10 +29,12 @@ Therefore, I put them here in this hellpit.</p>
 <img src="https://github-readme-stats.vercel.app/api?username=DeanAbad&show_icons=true&include_all_commits=true&theme=midnight-purple&custom_title=Github%20Stats&hide_border=true" alt="Github Stats"></a>
 
 <a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanAbad&layout=compact&theme=midnight-purple&langs_count=10&hide=js&hide_border=true"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanAbad&layout=compact&theme=midnight-purple&langs_count=10&hide=js&hide_border=true">
+</a>
 
-<br>
-<a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&theme=darkhub&no-frame=true&row=1&column=6"></a>
+<a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank">
+<img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&theme=darkhub&no-frame=true&row=1&column=6">
+</a>
 
 <br>
 
