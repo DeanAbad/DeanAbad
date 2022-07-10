@@ -52,3 +52,7 @@ Also, feel free to check and listen to my poorly made playlists in Spotify and Y
         </td>
     </tr>
 </table>
+<br>
+<img src="src\images\misc\steam_div.png">
+</br>
+<p align="center"><i>Best viewed on 1366x768 resolution.<br>More content soon.</i><p>
