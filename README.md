@@ -28,7 +28,7 @@ Therefore, I put them here in this hellpit.</p>
 </br>
 <h3>Few occupational stressors</h3>
 <p>These are some activities pushed by my stressors.</p>
-<img src="src\images\gifs\megumin.gif" align="right" height="210px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/overview.svg"></a><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/languages.svg"></a><br>
+<img src="src\images\gifs\megumin.gif" align="right" height="200px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/overview.svg"></a><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/DeanAbad/GithubStats/master/generated/languages.svg"></a><br>
 <img src="src\images\gifs\zelda_minish_cap.gif" align="right" height="240px"><a title="Visit my Github repositories" href="https://github.com/DeanAbad?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DeanAbad&no-frame=true&row=2&column=4"></a>
 <br>
 <img src="src\images\misc\steam_div.png">
