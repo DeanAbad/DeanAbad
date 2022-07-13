@@ -1,6 +1,6 @@
 <h1>Hi! Welcome to my Github. 👋</h1>
 
-<img src="src\images\gifs\chika.gif" align="right" height="245px"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=20&duration=2000&multiline=true&width=490&height=80&lines=var+name+%3A%3D+%22DeanAbad%22;var+langs+%3A%3D+%5B+%22C%2B%2B%22+%2C+%22Python%22%5D;var+scripts+%3A%3D+%5B%22GDScript%22%2C+%22JavaScript%22%5D;%C2%A0">
+<img src="src\images\gifs\chika.gif" align="right" height="240px"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=20&duration=2000&multiline=true&width=490&height=80&lines=var+name+%3A%3D+%22DeanAbad%22;var+langs+%3A%3D+%5B+%22C%2B%2B%22+%2C+%22Python%22%5D;var+scripts+%3A%3D+%5B%22GDScript%22%2C+%22JavaScript%22%5D;%C2%A0">
 
 <h3>Tools I usually use</h3>
 <table>
