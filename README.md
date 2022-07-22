@@ -55,10 +55,11 @@ Also, feel free to check and listen to my poorly made playlists in Spotify and Y
 <br>
 <img src="src\images\misc\steam_div.png">
 </br>
-<h3>YouTube Videos</h3>
-<p>Just some updates of the few things I do.</p>
+
+### Videos of some work
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
 <br>
 <img src="src\images\misc\steam_div.png">
 </br>
