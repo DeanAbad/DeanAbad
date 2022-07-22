@@ -58,6 +58,11 @@ Also, feel free to check and listen to my poorly made playlists in Spotify and Y
 
 ### Videos of some work
 <!-- YOUTUBE:START -->
+- [Github README](https://www.youtube.com/watch?v=IdD5RIGMC44)
+- [2 Slimes](https://www.youtube.com/watch?v=-2S7ZiwVYjM)
+- [WIP 👀](https://www.youtube.com/watch?v=OjDwUYw38nI)
+- [Personalized Desktop &amp; Browser](https://www.youtube.com/watch?v=dxr5W62uplU)
+- [Basketball at Tom&#39;s World with Brother](https://www.youtube.com/watch?v=gJKzEbjP8aQ)
 <!-- YOUTUBE:END -->
 
 <br>
